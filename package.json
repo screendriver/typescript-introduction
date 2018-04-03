@@ -5,10 +5,11 @@
   "repository": "git@github.com:screendriver/typescript-introduction.git",
   "author": "Christian Rackerseder <git@echooff.de>",
   "license": "MIT",
-  "devDependencies": {
-    "typescript": "2.8.1"
-  },
   "dependencies": {
     "tslib": "1.9.0"
+  },
+  "devDependencies": {
+    "prettier": "1.11.1",
+    "typescript": "2.8.1"
   }
 }
